@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "simple node js program",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Husna-banu/Node-js-programs.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Husna-banu/Node-js-programs/issues"
+  },
+  "homepage": "https://github.com/Husna-banu/Node-js-programs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
